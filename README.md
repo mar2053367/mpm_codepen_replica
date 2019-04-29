@@ -4,4 +4,4 @@ This is a replica of the [codepen.io](https://codepen.io/) landing page for my D
 
 I was given the image below and asked to reproduce what I saw in the image using the HTML and CSS skills I learned in the Digital Literacy Course. I was not required to include an functionality or responsiveness.
 
-<img src="/images/screen-shots/projects-screenshot.png" alt="Codepen.io Replica" width="100%">
+<img src="/images/screen-shots/codepen_replica.png" alt="Codepen.io Replica" width="100%">
